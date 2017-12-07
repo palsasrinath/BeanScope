@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-aop-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-aspects-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-build-src-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-context-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-core-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-expression-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-framework-bom-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-instrument-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-instrument-tomcat-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-jdbc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-jms-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-messaging-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-orm-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-oxm-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-test-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-tx-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-web-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-webmvc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-webmvc-portlet-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring/Libs/spring-framework-4.0.3.RELEASE/lib/spring-websocket-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
